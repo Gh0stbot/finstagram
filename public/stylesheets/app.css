@@ -3,9 +3,9 @@ header {
     color: #E8FDFF;
 }
 body {
-    background-color: whitesmoke;
+  font-family: 'Caveat', cursive;
   }
   main {
-    background-color: white;
-    padding: 16px;
+  background-color: whitesmoke;
+  padding: 16px;
   }
