@@ -3,9 +3,16 @@ header {
     color: #E8FDFF;
 }
 body {
-  font-family: 'Caveat', cursive;
+  font-family: 'Caveat', sans-serif;
+  background-color: aquamarine;
   }
   main {
   background-color: whitesmoke;
   padding: 16px;
+  }
+  a.photo{
+    transition: padding 0.5s;
+  }
+  a.photo:hover{
+    padding: 10px;
   }
